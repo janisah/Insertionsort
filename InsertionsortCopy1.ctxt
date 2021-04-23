@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=InsertionsortCopy1
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ InsertionsortCopy1.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=
+comment1.target=void\ sotieren()
+comment2.params=
+comment2.target=void\ arrayAusgeben()
+comment3.params=zahl1\ zahl2
+comment3.target=void\ tauschen(int,\ int)
+numComments=4
